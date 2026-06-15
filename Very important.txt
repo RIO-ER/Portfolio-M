@@ -1,0 +1,8 @@
+Portfolio was built using React so follow these instructions :
+
+1- open terminal in this foloder
+2- Run this command : npm install 
+3- After that run this command : npm run build
+4- A folder named dist will be created
+5- Enter this file with this command : cd dist 
+6- Run server to watch contant : npx serve .
